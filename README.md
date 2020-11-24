@@ -2,13 +2,13 @@
 
 A vue plugin for badgen.net (fast badge generating service)
 
-# install
+## install
 
 ```
 yarn add vue-badgen
 ```
 
-# test
+## test
 
 clone repo
 
@@ -17,7 +17,7 @@ yarn
 yarn dev
 ```
 
-# props
+## props
 
 **type** = String ('classic' or 'flat')
 
