@@ -1,9 +1,16 @@
 {
     "name": "vue-badgen",
+	"description": "A vue plugin for badgen.net (fast badge generating service)",
     "version": "1.0.0",
-	"author": "silbad <psilbad@gmail.com>",
+	"author": {
+		"name": "silbad",
+		"email": "psilbad@gmail.com"
+	},
 	"license": "MPL-2.0",
-	"repository": "git@github.com:Silbad/vue-badgen.git",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Silbad/vue-badgen.git"
+	},
 	"publishConfig": {
 	  "registry": "https://npm.pkg.github.com"
 	},
