@@ -4,12 +4,6 @@ A vue plugin for badgen.net (fast badge generating service)
 
 ## install
 
-```
-yarn add vue-badgen
-```
-
-## test
-
 clone repo
 
 ```
