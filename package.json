@@ -1,7 +1,8 @@
 {
     "name": "vue-badgen",
-    "version": "0.1.0",
-    "private": true,
+    "version": "1.0.0",
+	"author": "Silbad <psilbad@gmail.com>",
+	"license": "MPL-2.0",
     "scripts": {
         "dev": "vue-cli-service serve --open",
         "build": "vue-cli-service build",
