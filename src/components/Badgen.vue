@@ -1,6 +1,6 @@
 <template>
     <div>
-        <img :src="url" :alt="subject" />
+        <img :src="url" :alt="subject" :loading="loading" />
     </div>
 </template>
 
@@ -23,6 +23,10 @@ export default {
         color:  {
             type: String,
             default: 'green'
+        },
+        loading: {
+            type: String,
+            default: 'lazy'
         }
     },
     data() {
